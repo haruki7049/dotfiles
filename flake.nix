@@ -1,4 +1,6 @@
 {
+  description = "Haruki7049's dotfiles";
+
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
     systems.url = "github:nix-systems/default";
