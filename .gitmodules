@@ -4,3 +4,6 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/haruki7049/my_vim_config.git
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/haruki7049/my_neovim_config.git
