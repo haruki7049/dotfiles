@@ -1,3 +1,6 @@
 [submodule "nixos"]
 	path = nixos
 	url = https://github.com/haruki7049/my_nixos_config
+[submodule "vim"]
+	path = vim
+	url = https://github.com/haruki7049/my_vim_config.git
