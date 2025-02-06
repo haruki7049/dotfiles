@@ -10,3 +10,6 @@
 [submodule "helix"]
 	path = helix
 	url = https://github.com/haruki7049/my_helix_config.git
+[submodule "powershell"]
+	path = powershell
+	url = git@github.com:haruki7049/my_powershell_config
